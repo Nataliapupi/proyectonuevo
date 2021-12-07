@@ -24,7 +24,7 @@ a:hover {
   font-family: "Pacifico", cursive;
 }
 
-#pedales{
+#pedales {
   background: url("../img/pedaluno.jpg");
   background-repeat: no-repeat;
   background-position: center;
@@ -44,6 +44,4 @@ a:hover {
   background-size: cover;
   height: 300px;
 }
-
-
 /*# sourceMappingURL=style.css.map */
