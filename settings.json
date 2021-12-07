@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "vscode-edge-devtools.mirrorEdits": true,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "files.autoSave": "afterDelay"
+    
+}
